@@ -1,0 +1,13 @@
+
+table.example{
+    width: 850px;
+    border-collapse: collapse;
+
+}
+
+table.example td{
+
+    border:1px solid;
+
+}
+
